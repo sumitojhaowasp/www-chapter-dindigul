@@ -5,7 +5,7 @@ title: OWASP Dindigul
 tags: example-tag
 level: 0
 
-region: Middle East
+region: Asia
 
 auto-migrated: 1
 
