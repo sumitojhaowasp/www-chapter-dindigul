@@ -1,3 +1,3 @@
 ### Leaders
 
-*(Arun Sakithivel)mailto:arun.sakthivel@owasp.org]
+*[Arun Sakithivel](mailto:arun.sakthivel@owasp.org)
