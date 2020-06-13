@@ -38,6 +38,7 @@ Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mai
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+
 ## Local News
 
 <!-- Standard Chapter Page Template
