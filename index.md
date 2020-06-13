@@ -9,6 +9,9 @@ region: Asia
 
 ---
 
+## Welcome 
+
+<img src="assets/images/Logo/OWASP.jpg"/>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
