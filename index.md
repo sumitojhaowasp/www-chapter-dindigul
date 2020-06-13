@@ -13,6 +13,25 @@ region: Asia
 
 <img src="assets/images/Logo/OWASP.jpg"/>
 
+## Speakers
+
+Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mailto:arun.sakthivel@owasp.org)
+
+**Email Format :**
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+## Local News
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
