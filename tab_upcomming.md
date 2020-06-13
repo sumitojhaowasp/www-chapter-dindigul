@@ -1,5 +1,5 @@
 ---
-title: upcommingevents
+title: upcomming
 displaytext: Upcomming Events
 layout: null
 tab: true
