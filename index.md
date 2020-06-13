@@ -2,12 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Dindigul
-tags: example-tag
-level: 0
+tags: Dindigul OWASP Chapter India
+level: 1
 
 region: Asia
-
-auto-migrated: 1
 
 ---
 
