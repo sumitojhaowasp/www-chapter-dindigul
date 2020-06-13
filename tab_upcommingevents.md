@@ -1,10 +1,10 @@
-
 ---
-title: Upcomming Event
-displaytext: Upcomming Event
+title: upcommingevent
+displaytext: Upcomming Events
 layout: null
 tab: true
-order: 1
-tags: Dindugul OWASP Chapter India
+order: 2
+tags: Dindigul OWASP Chapter India
+
 ---
 # **Upcomming Meeting**
