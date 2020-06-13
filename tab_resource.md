@@ -1,10 +1,10 @@
 ---
 title: resource
-layout: null
-order: 4
-tab: true
-tags: Dindigul OWASP chapter India
 displaytext: Resources
+layout: null
+tab: true
+order: 4
+tags: Dindigul OWASP Chapter India
 
 ---
 
