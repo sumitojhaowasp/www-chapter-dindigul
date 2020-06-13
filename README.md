@@ -1,9 +1,7 @@
 ## OWASP Dindigul Chapter
 
-<h5 align="center">
-  <br>
-  <a href="https://github.com/OWASP/www-chapter-dindigul"><img src="assets/images/Logo/OWASP.jpg" alt="OWASP Dindigul"></a>
-</h5>
+![OWASP Dindigul](assets/images/Logo/OWASP.jpg?raw=true "Title")
+
 
 This is the source repository of OWASP Dindigul. The Chapter wiki is located at https://owasp.org/www-chapter-dindigul
 
