@@ -1,3 +1,12 @@
 ### Leaders
 
-*[Arun Sakithivel](mailto:arun.sakthivel@owasp.org)
+* [Arun Sakithivel](mailto:arun.sakthivel@owasp.org)
+
+### Chapter Members
+
+* [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com)
+
+### Digital partner
+
+* [Tamil BotNet](https://www.youtube.com/c/TamilBotNet)
+* [TamilOverflow](https://www.youtube.com/c/TamilOverflow)
