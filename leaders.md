@@ -8,5 +8,5 @@
 
 ### Digital partner
 
-* [Tamil BotNet](https://www.youtube.com/c/TamilBotNet)
-* [TamilOverflow](https://www.youtube.com/c/TamilOverflow)
+- [TamilBotNet](https://www.youtube.com/c/TamilBotNet)
+- [TamilOverflow](https://www.youtube.com/c/TamilOverflow)
