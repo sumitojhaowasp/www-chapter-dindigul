@@ -1,4 +1,5 @@
 ---
+layout: col-sidebar
 title: upcommingevent
 displaytext: Upcomming Events
 layout: null
