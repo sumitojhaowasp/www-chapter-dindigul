@@ -1,9 +1,10 @@
 ---
-title: upcomming
-layout:  null
+title: upcommingevents
+displaytext: Upcomming Events
+layout: null
 tab: true
 order: 2
-tags: Dindigul-OWasp-Chapter
+tags: Dindugul OWASP Chapter India
 ---
 
 ## Upcomming Events & Meetings
