@@ -23,7 +23,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mailto:arun.sakthivel@owasp.org)
+Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mailto:arun.sakthivel@owasp.org) or [Register Here](https://forms.gle/BPG9sydNzwpqF8YG9)
 
 **Email Format :**
 
@@ -38,6 +38,7 @@ Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mai
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+ 
 
 ## Local News
 
