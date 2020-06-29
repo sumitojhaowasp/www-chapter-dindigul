@@ -41,3 +41,7 @@ Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mai
  
 
 ## Local News
+
+**28th June, 2020 - 11:00 AM**
+
+OWASP Dindigul in Collaboration with Manvasam Tech Team  `Android Cyber Attack - how to be safe while using Android phones` Webinar.
