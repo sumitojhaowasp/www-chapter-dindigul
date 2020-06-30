@@ -13,6 +13,11 @@ tags: Dindigul OWASP Chapter India
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 
 <hr>
+<br /> <br />
 
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSNMgEsSQVtpRFeHhG0rCyYlvrNKXfLoKBxb5IgSCcJBgRfk6Vd5sezPSSzG_WZfw5iL4BowhbSYsUg/pubhtml?widget=false&amp;headers=false" width="1000px" height="500px"></iframe>
+| S No | Topic					   										| Date & Time			 | Speaker/organization 	   | Reg/Meeting Link 	       |
+|------|----------------------------------------------------------------|------------------------|-----------------------------|---------------------------|
+| 1    | Android Cyber Attack <br> How to be safe while using android phone   | 28th June, 2020 - 11 AM| Karthi AR/Manvasam Tech Team|						   |
+
+
 
