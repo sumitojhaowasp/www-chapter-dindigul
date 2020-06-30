@@ -19,7 +19,9 @@ tags: Dindigul OWASP Chapter India
 OWASP Dindigul in Collaboration with Manvasam Tech Team  `Android Cyber Attack - how to be safe while using Android phones` Webinar.
 
 ![Android Cyber Attack](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/001.jpg)
-<br>
+
+<br />
+<br />
 
 | Date/ Time           | Platform    | Resource      |
 | :---                 |    :----:   |          ---: |
