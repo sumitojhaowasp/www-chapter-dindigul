@@ -24,7 +24,7 @@ OWASP Dindigul in Collaboration with Shadow Phreak  `Hacking Phases in Network a
 
 | Date/ Time           | Platform    | Resource      |
 | :---                 |    :----:   |          ---: |
-| 26 AUG, 2020 10  AM  | Google Meet |   ![Click Here](https://drive.google.com/file/d/1RyGlAGF8z3ZVdtDBa5FEBXpzdHuTp6Y9/view)            |
+| 26 AUG, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1RyGlAGF8z3ZVdtDBa5FEBXpzdHuTp6Y9/view)  |
 
 <hr>
 
