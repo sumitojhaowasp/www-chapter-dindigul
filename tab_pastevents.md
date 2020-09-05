@@ -12,6 +12,20 @@ tags: Dindigul OWASP Chapter India
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 <hr>
+**05th September, 2020 - 10:00 AM**
+
+OWASP Dindigul in Collaboration with Vinoth kumar  `Human psychology With Social Engineers` Webinar.
+
+![Human psychology With Social Engineers](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/003.jpg)
+
+<br />
+<br />
+
+| Date/ Time           | Platform    | Resource      |
+| :---                 |    :----:   |          ---: |
+| 05 SEP, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1D3yk3HKtbONDYsPFWvWmX9A6can4R57m/view)  |
+
+<hr>
 
 **26th August, 2020 - 10:00 AM**
 
