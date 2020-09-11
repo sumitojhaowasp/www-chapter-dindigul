@@ -9,9 +9,8 @@ region: Asia
 
 ## Welcome 
 
-<img src="assets/images/Logo/OWASP.jpg"/>
 
-Welcome to Owasp Dindigul chapter Homepage. We are located in a beautiful state of India called Tamil Nadu. The main motive of this chapter is to enrich infosec community in our place.
+Welcome to Owasp Gwalior chapter Homepage. We are located in a beautiful state of India called Madhya Pradesh. The main motive of this chapter is to enrich infosec community in our place.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -23,7 +22,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mailto:arun.sakthivel@owasp.org) or [Register Here](https://forms.gle/BPG9sydNzwpqF8YG9)
+Would you like to speak on the upcoming OWASP Gwalior Webinar? [Contact Us](mailto:sumit.ojha@owasp.org) or [Register Here](https://forms.gle/)
 
 **Email Format :**
 
@@ -42,6 +41,6 @@ Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mai
 
 ## Local News
 
-**28th June, 2020 - 11:00 AM**
+**28th Aug, 2020 - 11:00 AM**
 
-OWASP Dindigul in Collaboration with Manvasam Tech Team  `Android Cyber Attack - how to be safe while using Android phones` Webinar.
+OWASP Gwalior in Collaboration with Indian Cyber Squad organising  `Cyber-Crime and How to be safe online` Webinar.
